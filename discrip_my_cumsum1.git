@@ -1,5 +1,7 @@
 
-My_cumsum1.R is R code which published in PacktPublishing with educational purposes.
-it is fucntion and the input is vector. the the function make a new vector with the same dimention, 
-but each element is a summastion of the previous elements.
-the code file is attached in repo.
+My_cumsum1.R is R code which published in PacktPublishing in GitHub with educational purposes for the book Learning R Programming
+It is fucntion and the input is vector. the the function make a new vector with the same dimention, 
+But each element is a summastion of the previous elements.
+The code file is attached in repo.
+
+Ref: https://github.com/PacktPublishing/Learning-R-Programming/tree/master/Chapter%203i
